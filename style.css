@@ -33,7 +33,7 @@ h2 {
 
 details {
     text-align: left;
-    border: 1px solid #666;
+    border-bottom: 1px solid #666;
     padding: 20px;	
     cursor: pointer;
 }
